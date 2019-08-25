@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Avicky",
+    "age": "34",
+    "regNo": "2016524094",
+    "G.P": "4.9",
+    "faculty": "Bio-Science"
+  },
+  {
+    "name": "Victor",
+    "age": 22,
+    "regNo": 2016524064,
+    "G.P": 4.1,
+    "faculty": "Physical Science"
+  },
+  {
+    "name": "Ifedile",
+    "age": 23,
+    "G.P": 4.7,
+    "regNo": 2019485078,
+    "faculty": "Agriculture"
+  }
+]
